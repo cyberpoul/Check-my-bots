@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.Check-my-bots)
 # Check-my-bots
 
-Welcome to my collection of bots I’ve created.
+Here some bots I’ve created.
 
 ## 🔐 Tchaleyvi — CVE Alert Bot for Discord
 
