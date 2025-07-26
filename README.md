@@ -1,9 +1,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.Check-my-bots)
-# Check-my-bots
+## Check-my-bots
 
 Here some bots I’ve created.
 
-## 🔐 Tchaleyvi — CVE Alert Bot for Discord
+### Tchaleyvi — CVE Alert Bot for Discord
 
 **Tchaleyvi** is a Discord bot designed to automatically monitor and alert about newly published CVEs related to remote code execution (RCE), kernel exploits, privilege escalation, and other critical vulnerabilities.
 
@@ -14,7 +14,7 @@ Here some bots I’ve created.
 
 👉 [Add the bot to your discord server](https://discord.com/oauth2/authorize?client_id=1397734402599026778)
 
-## 🧠 Djépété — GPT Security Challenge Bot
+### Djépété — GPT CTF Challenge Bot
 
 **Djépété** was built during the National 2024 CTF of TOGO. Its goal was to withstand attacks from participants who tried everything to make it reveal a hidden flag. It was a custom GPT designed for resilience testing and prompt security under adversarial input.
 
