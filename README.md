@@ -1,6 +1,7 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.Check-my-bots)
 # Check-my-bots
 
-Welcome to my collection of custom bots and GPTs built for security monitoring and CTF challenges.
+Welcome to my collection of bots I’ve created.
 
 ## 🔐 Tchaleyvi — CVE Alert Bot for Discord
 
@@ -22,9 +23,3 @@ Welcome to my collection of custom bots and GPTs built for security monitoring a
 - Served as a live adversary in a public security event.
 
 👉 [Chat with Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
-
-## 📌 About
-
-This repo serves as a hub for experimenting, sharing, and documenting various bot projects — both in Discord and GPT ecosystems — with a focus on cybersecurity and automation.
-
-Feel free to fork, contribute, or deploy your own versions.
