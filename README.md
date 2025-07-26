@@ -12,7 +12,7 @@ Here some bots I’ve created.
 - Checks for new CVEs every 5 minutes.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
-👉 [Add Tchaleyvi to your discord server](https://discord.com/oauth2/authorize?client_id=1397734402599026778)
+👉 [Add the bot to your discord server](https://discord.com/oauth2/authorize?client_id=1397734402599026778)
 
 ## 🧠 Djépété — GPT Security Challenge Bot
 
