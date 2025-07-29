@@ -15,7 +15,7 @@ Here some bots I’ve created.
 
 ### Djépété — GPT CTF Challenge Bot
 
-**Djépété** was built during the National 2024 CTF of TOGO. His goal was to thwart the requests of the participants who will try everything to make him reveal a hidden flag.
+**Djépété** was built during the National 2025 CTF of TOGO. His goal was to thwart the requests of the participants who will try everything to make him reveal a hidden flag.
 
 - Hosted on ChatGPT.
 - Trained with strict behavior controls.
