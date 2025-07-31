@@ -8,7 +8,7 @@ Here some bots I’ve created.
 
 - Filters high-risk vulnerabilities using CVSS scores and relevant keywords.
 - Excludes noise from CMS platforms like WordPress, Joomla, etc.
-- Checks for new CVEs every 5 minutes.
+- Periodically checks for the release of new CVEs.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
 👉 [Add the bot to your discord server](https://discord.com/oauth2/authorize?client_id=1397734402599026778)
