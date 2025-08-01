@@ -11,7 +11,7 @@ Here some bots I’ve created.
 - Periodically checks for the release of new CVEs.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
-👉 [Add the bot to your discord server](https://discord.com/oauth2/authorize?client_id=1397734402599026778)
+👉 [Join the discord server to test the bot](https://discord.gg/buJK2YcrNh)
 
 ### Djépété — GPT CTF Challenge Bot
 
@@ -21,4 +21,4 @@ Here some bots I’ve created.
 - Trained with strict behavior controls.
 - Served as a live adversary in a public security event.
 
-👉 [Chat with Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
+👉 [Chat with the bot Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
