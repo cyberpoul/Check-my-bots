@@ -9,7 +9,7 @@
 - Real-time detection of newly published CVE
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
-👉 [Join the discord server to check the bot Tchaleyvi](https://discord.gg/buJK2YcrNh)
+👉 [Join the discord server to see Tchaleyvi in action](https://discord.gg/buJK2YcrNh)
 
 ## 🤖 Djépété — GPT CTF Challenge Bot
 
@@ -18,4 +18,4 @@
 - Hosted on ChatGPT.
 - Trained with strict behavior controls.
 
-👉 [Chat with the bot Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
+👉 [Chat with Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
