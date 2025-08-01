@@ -11,7 +11,7 @@ Here some bots I’ve created.
 - Periodically checks for the release of new CVEs.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
-👉 [Join the discord server to test the bot](https://discord.gg/buJK2YcrNh)
+👉 [Join the discord server to test the bot Tchaleyvi](https://discord.gg/buJK2YcrNh)
 
 ### Djépété — GPT CTF Challenge Bot
 
