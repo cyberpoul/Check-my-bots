@@ -8,7 +8,7 @@ Here some bots I’ve created.
 
 - Filters high-risk vulnerabilities using CVSS scores and relevant keywords.
 - Excludes noise from CMS platforms like WordPress, Joomla, etc.
-- Periodically checks for the release of new CVEs.
+- Real-time detection of newly published CVE
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
 👉 [Join the discord server to test the bot Tchaleyvi](https://discord.gg/buJK2YcrNh)
