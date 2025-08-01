@@ -6,7 +6,7 @@
 
 - Filters high-risk vulnerabilities using CVSS scores and relevant keywords.
 - Excludes noise from CMS platforms like WordPress, Joomla, etc.
-- Daily retrieval of newly published CVEs.
+- Daily retrieval of new CVE.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
 👉 [Join the discord server to see Tchaleyvi in action](https://discord.gg/buJK2YcrNh)
