@@ -2,7 +2,7 @@
 ## Check-my-bots
 Here some bots I’ve created.
 
-### Tchaleyvi — CVE Alert Bot for Discord
+* ### Tchaleyvi — CVE Alert Bot for Discord
 
 **Tchaleyvi** is a Discord bot designed to automatically monitor and alert about newly published CVEs related to remote code execution (RCE), kernel exploits, privilege escalation, and other critical vulnerabilities.
 
