@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.Check-my-bots)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.CVE-Alert-Bot)
 
 ## 🤖 a powerful CVE Alert Bot made for discord
 
