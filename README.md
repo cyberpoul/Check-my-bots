@@ -9,4 +9,4 @@
 - Daily retrieval of new CVE.
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
-👉 [Join the discord server to see Tchaleyvi in action](https://discord.gg/buJK2YcrNh)
+👉 [Join the discord server to see the bot in action](https://discord.gg/buJK2YcrNh)
