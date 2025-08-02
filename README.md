@@ -10,12 +10,3 @@
 - Posts detailed alerts in a Discord channel with CVE links, severity, weaknesses, and references.
 
 👉 [Join the discord server to see Tchaleyvi in action](https://discord.gg/buJK2YcrNh)
-
-## 🤖 Djépété — GPT CTF Challenge Bot
-
-**Djépété** was developed as part of the 2025 National Cybersecurity CTF organized in Togo. It was designed to resist any trick participants might use to get it to reveal a hidden flag.
-
-- Hosted on ChatGPT.
-- Trained with strict behavior controls.
-
-👉 [Chat with Djépété](https://chatgpt.com/g/g-6730ce6c072481908b7a45d37f296c50-djepete)
